@@ -66,6 +66,18 @@
 ## 👀 Profile Views
 
 <p align="center">
+  <a href="https://github.com/Harsha714">
+    <img src="https://komarev.com/ghpvc/?username=Harsha714&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+⭐️ Thanks for visiting my profile!
+
+## 👀 Profile Views
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Harsha714&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
